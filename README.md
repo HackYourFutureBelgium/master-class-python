@@ -1,6 +1,6 @@
 > see the [Master Classes Guide](https://home.hackyourfuture.be/master-classes) for more context
 
-# Master Class Repo
+# Python
 
 Introduce the topic. why is it interesting? why is it important? for whom is it most helpful?
 
